@@ -3,14 +3,6 @@
   <em>Premium Self-Care E-Commerce Platform</em>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-16-black?logo=next.js" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Express-4-green?logo=express" alt="Express" />
-  <img src="https://img.shields.io/badge/TypeScript-5-blue?logo=typescript" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/MongoDB-8-green?logo=mongodb" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Razorpay-Integrated-purple" alt="Razorpay" />
-</p>
-
 ---
 
 **Velora** is a production-ready, full-stack e-commerce platform built for premium self-care products. Designed with Apple-level visual standards and modern D2C conversion optimization, it features a complete checkout flow with Razorpay payment integration, admin dashboard, and CMS capabilities.
